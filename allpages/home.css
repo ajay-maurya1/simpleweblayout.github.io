@@ -1,0 +1,36 @@
+ <style>
+ body{
+ margin:0px;
+ padding: 0px; 
+ }
+ h1{
+ height: 40px;
+ background: aqua;
+ padding-left: 45%;
+ }
+ .heading{
+ background: yellow;
+ }
+ .one{
+ padding: 5px;
+ background: #FFFFCC;
+ font-size: 12pt;
+ border: 5px solid red;
+ border-radius: 10px; 
+ }
+ .second{
+ padding: 5px;
+ background: #FFDEAD;
+ font-size: 12pt;
+ border: 5px solid red;
+ border-radius: 10px;
+ }
+ .three{
+ padding: 5px;
+ background: #E6E6FA;
+ font-size: 12pt;
+ border: 5px solid red;
+ border-radius: 10px;
+ }
+</style>
+
